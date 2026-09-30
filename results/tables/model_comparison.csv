@@ -1,0 +1,5 @@
+Model,CV Accuracy Mean,CV Accuracy Std,Test Accuracy,Precision,Recall (Benign),Malignant Sensitivity,Specificity,F1,ROC-AUC,PR-AUC
+Logistic Regression,98.24,0.98,97.37,97.26,98.61,95.24,95.24,97.93,99.57,99.74
+Random Forest,96.26,1.79,95.61,95.89,97.22,92.86,92.86,96.55,99.37,99.62
+SVM,97.58,1.55,98.25,98.61,98.61,97.62,97.62,98.61,99.77,99.86
+XGBoost,97.14,1.79,94.74,94.59,97.22,90.48,90.48,95.89,99.27,99.58
